@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  ConsoleApplication8.cpp
+c:\users\jacob\source\repos\consoleapplication8\consoleapplication8\consoleapplication8.cpp(76): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication8.vcxproj -> C:\Users\Jacob\source\repos\ConsoleApplication8\Debug\ConsoleApplication8.exe
